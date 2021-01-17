@@ -131,3 +131,5 @@ dmypy.json
 
 files/
 debug.py
+output/
+.DS_Store
